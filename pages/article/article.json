@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "towxml":"/towxml/towxml"
+  },
+  "navigationBarBackgroundColor":"#fff",
+  "navigationBarTextStyle":"black",
+  "navigationBarTitleText":"BetterLeo",
+  "backgroundColor":"#fff",
+  "backgroundTextStyle":"dark"
+}

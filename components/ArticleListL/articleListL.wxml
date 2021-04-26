@@ -1,0 +1,13 @@
+<view class='article-item' wx:for="{{list}}" wx:key='key' bindtap='gotoArticle' data-id="{{item.id}}">
+  <view class='item-left'>
+    <image class='cover-img' src='{{item.coverImage}}'></image>
+  </view>
+  <view class='item-right'>
+    <view class="right-tags">
+      <view></view>
+    </view>
+    <view class="right-title">
+      {{item.title}}
+    </view>
+  </view>
+</view>

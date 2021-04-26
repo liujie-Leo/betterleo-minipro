@@ -1,0 +1,12 @@
+{
+  "usingComponents": {
+    "ArticleListL":"/components/ArticleListL/articleListL",
+    "SortTag":"/components/SortTag/sortTag"
+  },
+  "navigationBarBackgroundColor":"#fff",
+  "navigationBarTextStyle":"black",
+  "navigationBarTitleText":"BetterLeo",
+  "backgroundColor":"#fff",
+  "enablePullDownRefresh":true,
+  "backgroundTextStyle":"dark"
+}

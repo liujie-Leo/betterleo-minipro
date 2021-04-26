@@ -1,0 +1,21 @@
+.cover-img-box{
+  height: 350rpx;
+  width: 700rpx;
+  margin: 24rpx auto 0rpx;
+  border-radius: 8rpx;
+  overflow: hidden;
+}
+.cover-img{
+  height: 100%;
+  width: 100%;
+}
+.place{
+  height: 100rpx;
+  width: 750rpx;
+}
+.h2w__main{
+  padding-top: 8rpx!important;
+}
+.h2w__pre{
+  border-radius: 8rpx;
+}

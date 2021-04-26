@@ -1,0 +1,7 @@
+<view class='container'>
+  <view class='cover-img-box'>
+    <image class='cover-img' src='{{articleInfo.coverImage}}'></image>
+  </view>
+  <towxml id='Markdown' nodes="{{article}}"/>
+  <view class='place'></view>
+</view>

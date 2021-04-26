@@ -1,0 +1,45 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/develop/develop",
+    "pages/digit/digit",
+    "pages/article/article"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "BetterLeo",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#444",
+    "selectedColor": "#242425",
+    "borderStyle": "black",
+    "list": [
+      {
+        "selectedIconPath": "/images/home-select.png",
+        "iconPath": "/images/home.png",
+        "pagePath": "pages/home/home",
+        "text": "首页"
+      },{
+        "selectedIconPath": "/images/develop-select.png",
+        "iconPath": "/images/develop.png",
+        "pagePath": "pages/develop/develop",
+        "text": "开发"
+      },{
+        "selectedIconPath": "/images/digit-select.png",
+        "iconPath": "/images/digit.png",
+        "pagePath": "pages/digit/digit",
+        "text": "数码"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2",
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序位置接口的效果展示"
+    }
+  }
+}

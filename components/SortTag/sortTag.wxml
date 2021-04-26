@@ -1,0 +1,3 @@
+<view class='tag-box'>
+  <view class="tags {{activeTag===item.value?'active-tag':''}}" wx:for="{{tagList}}" wx:key='key' data-value="{{item.value}}" bindtap="onClickTag">{{item.name}}</view>
+</view>

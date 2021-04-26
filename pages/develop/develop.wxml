@@ -1,0 +1,9 @@
+<view class='container'>
+  <view class='sort-tag-box'>
+    <SortTag tagList="{{tagList}}" bind:onClickTag='onClickTag'></SortTag>
+  </view>
+  <view class='article-box' wx:if="{{list.length>0}}">
+    <ArticleListS list="{{list}}"></ArticleListS>
+  </view>
+  <NoData wx:else></NoData>
+</view>

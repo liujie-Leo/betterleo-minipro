@@ -1,0 +1,8 @@
+<view class='container'>
+  <!-- <view class='nav-box'></view> -->
+  <!-- <view class='search-box'>
+    <input class='search-ipt' type="text"/>
+    <text class='iconfont iconsousuo'></text>
+  </view> -->
+  <ArticleListS list="{{list}}"/>
+</view>

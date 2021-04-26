@@ -1,0 +1,35 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "开发",
+          "pathName": "pages/develop/develop",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "数码",
+          "pathName": "pages/digit/digit",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "测试",
+          "pathName": "pages/test/test",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

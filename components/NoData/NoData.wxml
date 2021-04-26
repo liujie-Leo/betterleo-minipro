@@ -1,0 +1,4 @@
+<view class='container'>
+  <image class='img' src='../../images/noData.svg'></image>
+  <view class='title'>没有内容</view>
+</view>

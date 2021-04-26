@@ -1,0 +1,5 @@
+/* 图标字体 */
+@import './style/iconfont/iconfont.wxss';
+
+/* 颜色管理 */
+@import './style//color/color.wxss';

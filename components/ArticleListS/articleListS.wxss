@@ -1,0 +1,18 @@
+.article-item {
+  width: 700rpx;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto 44rpx;
+}
+
+.item-left {
+  width: 530rpx;
+  font-size: 32rpx;
+}
+
+.cover-img {
+  height: 75rpx;
+  width: 150rpx;
+  border-radius: 6rpx;
+}

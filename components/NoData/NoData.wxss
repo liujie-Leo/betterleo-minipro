@@ -1,0 +1,22 @@
+.container{
+  height: 300rpx;
+  width: 700rpx;
+  margin: 12rpx auto 0;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #fafafa;
+  border-radius: 8rpx;
+}
+
+.img{
+  height: 200rpx;
+  width: 200rpx;
+}
+
+.title{
+  color: var(--main-color);
+  font-size: 24rpx;
+}

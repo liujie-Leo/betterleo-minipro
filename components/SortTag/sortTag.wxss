@@ -1,0 +1,22 @@
+.tag-box{
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  padding-bottom: 24rpx;
+}
+
+.tags{
+  font-size: 26rpx;
+  padding: 0rpx 18rpx;
+  border-radius: 14rpx;
+  margin-right: 6rpx;
+  color: var(--main-color);
+  font-weight: 600;
+  height: 50rpx;
+  line-height: 50rpx;
+}
+
+.active-tag {
+  color: #fff;
+  background-color: var(--main-color);
+}

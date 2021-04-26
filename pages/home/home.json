@@ -1,0 +1,11 @@
+{
+  "usingComponents": {
+    "ArticleListS":"/components/ArticleListS/articleListS"
+  },
+  "navigationBarBackgroundColor":"#fff",
+  "navigationBarTextStyle":"black",
+  "navigationBarTitleText":"BetterLeo",
+  "backgroundColor":"#fff",
+  "enablePullDownRefresh":true,
+  "backgroundTextStyle":"dark"
+}
